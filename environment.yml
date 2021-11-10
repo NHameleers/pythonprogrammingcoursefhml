@@ -1,0 +1,12 @@
+name: null   # env was made with --prefix
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter=1.0.0
+  - pandas=1.3.4
+  - numpy=1.21.2
+  - matplotlib=3.4.3
+  - altair=4.1.0
+  - rise=5.7.1
+  - nb_conda_kernels=2.3.1    # to access environment in jupyter 

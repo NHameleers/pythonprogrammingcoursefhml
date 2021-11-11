@@ -1,0 +1,10 @@
+Zie deze link voor html of pdf maken van notebook
+https://rise.readthedocs.io/en/stable/exportpdf.html
+
+bijvoorbeeld voor Lecture 6
+jupyter nbconvert --to slides Lecture06-ErrorsAndExceptions.ipynb --post serve
+
+https://stackoverflow.com/questions/51975699/embedding-image-into-jupyter-notebook-and-exporting-to-html
+
+and images need to be in same folder as Lecture, or at least not up the tree
+https://stackoverflow.com/questions/58936073/jupyter-nbconvert-slides-render-local-images

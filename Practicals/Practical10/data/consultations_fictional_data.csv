@@ -845,5 +845,5 @@ consultation_id,patient_id,consultation_type,icpc,consultation_date
 844,P57,C,K49.01,28-5-2020
 845,P64,C,T90.02,2-6-2020
 846,P66,C,T90.02,12-3-2021
-847,P50,V,H81,4-8-2020
-848,P23,V,A97.01,11-5-2020
+847,P50,V,R95,4-8-2020
+848,P23,V,R96,11-5-2020

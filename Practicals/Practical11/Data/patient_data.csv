@@ -1,0 +1,1001 @@
+age,gender,gp_practice,nr_of_consultations,has_multimorbidity,has_physical_mental_disease,risk_stratification_group
+56,Male,1,1,False,Has none,Low
+61,Male,1,1,False,Has none,Low
+82,Male,1,1,False,Has none,Low
+77,Male,1,1,False,Has none,Low
+65,Female,1,1,False,Has none,Low
+23,Male,1,1,False,Only mental chronic disease,Low
+63,Male,1,1,False,Has none,Low
+60,Male,1,1,False,Has none,Low
+58,Female,1,1,False,Has none,Low
+63,Female,1,1,False,Has none,Low
+48,Female,1,1,False,Has none,Low
+54,Female,1,2,False,Has none,Low
+50,Female,1,2,False,Has none,Low
+41,Male,1,2,False,Only mental chronic disease,Low
+17,Male,1,2,False,Has none,Low
+66,Female,1,2,False,Has none,Low
+54,Female,1,2,False,Has none,Low
+80,Male,1,2,False,Has none,Low
+27,Male,1,2,False,Has none,Low
+64,Male,1,2,False,Only physical chronic disease,Low
+68,Female,1,2,False,Has none,Low
+80,Female,1,2,False,Has none,Low
+88,Female,1,2,False,Has none,Low
+65,Male,1,2,False,Has none,Low
+74,Male,1,2,False,Has none,Low
+55,Female,1,2,False,Has none,Low
+26,Female,1,2,False,Only mental chronic disease,Low
+11,Male,1,2,False,Has none,Low
+44,Male,1,2,False,Has none,Low
+53,Male,1,2,False,Has none,Low
+80,Male,1,3,False,Only physical chronic disease,Low
+47,Male,1,3,False,Has none,Low
+69,Male,1,3,False,Only physical chronic disease,Low
+48,Male,1,3,False,Has none,Low
+56,Male,1,3,False,Only physical chronic disease,Low
+53,Female,1,3,False,Has none,Low
+42,Male,1,3,False,Has none,Low
+13,Male,1,3,False,Only mental chronic disease,Low
+58,Female,1,3,False,Has none,Low
+54,Male,1,3,False,Has none,Low
+75,Female,1,4,False,Has none,Low
+54,Male,1,4,False,Has none,Low
+47,Female,1,4,False,Has none,Low
+67,Male,1,4,False,Has none,Low
+53,Male,1,4,False,Has none,Low
+58,Female,1,4,False,Has none,Low
+46,Male,1,4,False,Has none,Low
+70,Male,1,4,False,Only physical chronic disease,Low
+49,Male,1,4,False,Has none,Low
+63,Male,1,4,False,Has none,Low
+53,Male,1,4,False,Has none,Low
+72,Male,1,4,False,Has none,Low
+45,Male,1,4,True,Only physical chronic disease,Low
+23,Male,1,4,False,Has none,Low
+62,Female,1,4,False,Has none,Low
+64,Male,1,4,False,Only physical chronic disease,Low
+58,Female,1,4,False,Has none,Low
+49,Male,1,4,False,Has none,Low
+45,Female,1,4,True,Both physical and mental chronic disease,Low
+49,Female,1,4,False,Has none,Low
+67,Female,1,4,False,Has none,Low
+46,Male,1,4,False,Has none,Low
+64,Male,1,4,False,Has none,Low
+59,Female,1,4,False,Has none,Low
+60,Male,1,4,False,Has none,Low
+14,Male,1,4,False,Has none,Low
+48,Female,1,4,False,Has none,Low
+10,Female,1,5,False,Has none,Low
+22,Female,1,5,False,Has none,Low
+59,Female,1,5,False,Has none,Low
+72,Female,1,5,False,Has none,Low
+50,Female,1,5,False,Has none,Low
+49,Female,1,5,False,Has none,Low
+36,Male,1,5,False,Only physical chronic disease,Low
+55,Male,1,5,False,Has none,Low
+70,Female,1,5,False,Has none,Low
+47,Female,1,5,False,Has none,Low
+48,Male,1,5,False,Has none,Low
+53,Male,1,5,False,Has none,Low
+65,Male,1,5,False,Has none,Low
+50,Female,1,5,False,Has none,Low
+58,Male,1,6,False,Only physical chronic disease,Low
+56,Female,1,6,False,Has none,Low
+57,Male,1,6,False,Has none,Low
+64,Male,1,6,False,Has none,Low
+36,Female,1,6,False,Has none,Low
+58,Female,1,6,False,Has none,Low
+73,Female,1,6,False,Has none,Low
+55,Male,1,6,False,Only physical chronic disease,Low
+69,Female,1,6,False,Has none,Low
+62,Female,1,6,False,Has none,Low
+35,Female,1,6,False,Has none,Low
+47,Female,1,6,False,Has none,Low
+52,Female,1,6,False,Has none,Low
+67,Male,1,6,False,Has none,Low
+76,Male,1,6,False,Has none,Low
+63,Male,1,6,False,Has none,Low
+72,Male,1,7,False,Has none,Low
+47,Female,1,7,False,Has none,Low
+50,Female,1,7,False,Has none,Low
+43,Male,1,7,False,Has none,Low
+69,Female,1,7,False,Has none,Low
+65,Female,1,7,False,Has none,Low
+23,Female,1,7,False,Has none,Low
+52,Male,1,7,False,Has none,Low
+46,Female,1,8,False,Has none,Low
+80,Female,1,8,False,Has none,Low
+73,Male,1,8,False,Has none,Low
+66,Male,1,8,False,Only physical chronic disease,Low
+69,Male,1,8,False,Has none,Low
+42,Female,1,8,False,Has none,Low
+56,Male,1,8,False,Has none,Low
+61,Male,1,8,False,Only physical chronic disease,Low
+22,Female,1,8,False,Only physical chronic disease,Low
+57,Male,1,8,False,Has none,Low
+58,Male,1,8,False,Has none,Low
+70,Male,1,8,False,Has none,Low
+81,Female,1,8,False,Has none,Low
+52,Male,1,8,False,Has none,Low
+17,Female,1,8,False,Has none,Low
+59,Female,1,8,False,Has none,Low
+56,Female,1,8,False,Only physical chronic disease,Low
+52,Male,1,8,False,Has none,Low
+45,Male,1,8,False,Has none,Low
+59,Female,1,8,False,Only physical chronic disease,Low
+46,Female,1,9,False,Has none,Low
+21,Female,1,9,False,Only physical chronic disease,Low
+46,Female,1,9,False,Only physical chronic disease,Low
+71,Female,1,9,False,Has none,Low
+53,Female,1,9,False,Has none,Low
+44,Male,1,9,False,Has none,Low
+60,Female,1,9,False,Only physical chronic disease,Low
+80,Male,1,9,False,Only physical chronic disease,Low
+50,Female,1,9,False,Has none,Low
+23,Male,1,9,False,Has none,Low
+72,Female,1,9,False,Has none,Low
+52,Male,1,9,False,Has none,Low
+52,Female,1,9,False,Has none,Low
+48,Male,1,9,False,Has none,Low
+30,Female,1,9,False,Only physical chronic disease,Low
+52,Male,1,10,False,Has none,Low
+69,Female,1,10,False,Has none,Low
+18,Male,1,10,False,Only physical chronic disease,Low
+64,Male,1,10,False,Has none,Low
+49,Female,1,10,False,Has none,Low
+68,Male,1,10,False,Has none,Low
+9,Female,1,10,False,Only mental chronic disease,Low
+67,Male,1,10,False,Has none,Low
+48,Male,1,10,False,Has none,Low
+71,Female,1,10,False,Has none,Low
+57,Male,1,10,False,Has none,Low
+55,Female,1,10,False,Has none,Low
+19,Male,1,10,False,Only physical chronic disease,Low
+65,Male,1,10,False,Only physical chronic disease,Low
+60,Female,1,10,False,Has none,Low
+70,Female,1,10,False,Has none,Low
+47,Female,1,10,False,Has none,Low
+61,Female,1,10,False,Has none,Low
+69,Male,1,10,False,Has none,Low
+60,Female,1,11,False,Has none,Low
+66,Female,1,11,False,Only physical chronic disease,Low
+59,Female,1,11,False,Only physical chronic disease,Low
+43,Female,1,11,False,Only physical chronic disease,Low
+29,Male,1,11,False,Only physical chronic disease,Low
+53,Male,1,11,False,Has none,Low
+53,Male,1,11,False,Has none,Low
+63,Male,1,11,False,Has none,Low
+54,Male,1,11,False,Has none,Low
+65,Female,1,11,False,Has none,Low
+27,Male,1,11,False,Only mental chronic disease,Low
+61,Male,1,11,False,Has none,Low
+52,Male,1,11,False,Has none,Low
+57,Female,1,11,False,Only physical chronic disease,Low
+69,Male,1,11,False,Only physical chronic disease,Low
+47,Female,1,11,False,Has none,Low
+50,Female,1,11,False,Only mental chronic disease,Low
+58,Female,1,11,False,Has none,Low
+14,Female,1,11,False,Only physical chronic disease,Low
+77,Male,1,12,False,Only physical chronic disease,Low
+47,Female,1,12,False,Only physical chronic disease,Low
+62,Male,1,12,False,Only physical chronic disease,Low
+55,Male,1,12,False,Has none,Low
+56,Female,1,12,False,Only physical chronic disease,Low
+61,Female,1,12,False,Only physical chronic disease,Low
+64,Female,1,12,False,Has none,Low
+49,Male,1,12,False,Has none,Low
+61,Male,1,12,False,Has none,Low
+13,Female,1,12,False,Only physical chronic disease,Low
+44,Female,1,12,False,Has none,Low
+57,Female,1,12,False,Only physical chronic disease,Low
+68,Male,1,12,False,Has none,Low
+67,Male,1,12,False,Only physical chronic disease,Low
+13,Female,1,12,False,Has none,Low
+67,Male,1,12,False,Only physical chronic disease,Low
+54,Male,1,12,False,Has none,Low
+59,Female,1,12,False,Has none,Low
+13,Male,1,12,False,Has none,Low
+90,Male,1,13,False,Has none,Low
+55,Male,1,13,False,Only physical chronic disease,Low
+45,Female,1,13,False,Has none,Low
+48,Female,1,13,False,Has none,Low
+73,Female,1,13,False,Has none,Low
+71,Female,1,13,False,Has none,Low
+69,Female,1,13,False,Only physical chronic disease,Low
+57,Female,1,13,True,Only physical chronic disease,Low
+77,Male,1,13,True,Only physical chronic disease,Low
+7,Male,1,13,False,Only physical chronic disease,Low
+75,Male,1,13,True,Only physical chronic disease,Low
+70,Female,1,13,False,Has none,Low
+80,Male,1,13,False,Only physical chronic disease,Low
+62,Male,1,13,False,Has none,Low
+40,Male,1,13,False,Has none,Low
+64,Female,1,13,False,Has none,Low
+16,Male,1,13,False,Has none,Low
+46,Female,1,14,False,Has none,Low
+71,Female,1,14,False,Has none,Low
+62,Male,1,14,False,Has none,Low
+53,Male,1,14,False,Only physical chronic disease,Low
+42,Female,1,14,True,Both physical and mental chronic disease,Low
+48,Female,1,14,False,Has none,Low
+64,Female,1,14,False,Has none,Low
+46,Female,1,14,False,Has none,Low
+53,Female,1,15,False,Has none,Low
+19,Female,1,15,False,Has none,Low
+38,Male,1,15,False,Only physical chronic disease,Low
+78,Male,1,15,False,Has none,Low
+19,Female,1,15,False,Only mental chronic disease,Low
+84,Male,1,15,True,Only physical chronic disease,Low
+61,Male,1,15,False,Only physical chronic disease,Low
+71,Female,1,15,False,Only physical chronic disease,Low
+52,Male,1,15,True,Both physical and mental chronic disease,Low
+70,Male,1,16,True,Only physical chronic disease,Low
+78,Male,1,16,False,Only physical chronic disease,Low
+61,Male,1,16,False,Has none,Low
+57,Male,1,16,False,Only physical chronic disease,Low
+59,Female,1,16,True,Only physical chronic disease,Low
+97,Male,1,16,False,Only physical chronic disease,Low
+47,Female,1,16,False,Has none,Low
+31,Female,1,16,False,Has none,Low
+36,Male,1,16,False,Has none,Low
+70,Female,1,16,True,Only physical chronic disease,Low
+44,Male,1,16,False,Only mental chronic disease,Low
+83,Male,1,16,False,Only physical chronic disease,Low
+83,Female,1,16,False,Only physical chronic disease,Low
+65,Female,1,16,False,Only physical chronic disease,Low
+19,Female,1,16,False,Has none,Low
+65,Male,1,17,False,Has none,Low
+67,Male,1,17,False,Has none,Low
+77,Female,1,17,False,Has none,Low
+58,Female,1,17,False,Has none,Low
+52,Female,1,17,False,Only physical chronic disease,Low
+24,Female,1,17,False,Only physical chronic disease,Low
+75,Female,1,17,False,Only physical chronic disease,Low
+85,Female,1,17,False,Only physical chronic disease,Low
+56,Male,1,17,False,Has none,Low
+68,Female,1,17,False,Only physical chronic disease,Low
+69,Male,1,18,False,Has none,Low
+76,Male,1,18,False,Only physical chronic disease,Low
+87,Female,1,18,False,Only physical chronic disease,Low
+45,Male,1,18,False,Only physical chronic disease,Low
+53,Female,1,18,False,Only physical chronic disease,Low
+84,Male,1,18,False,Only physical chronic disease,Low
+65,Female,1,18,True,Only physical chronic disease,Low
+75,Male,1,18,False,Only physical chronic disease,Low
+57,Male,1,18,False,Has none,Low
+51,Male,1,19,True,Only physical chronic disease,Low
+72,Female,1,19,True,Only physical chronic disease,Low
+83,Male,1,19,False,Has none,Low
+64,Female,1,19,False,Has none,Low
+84,Male,1,20,True,Only physical chronic disease,Low
+43,Male,1,20,False,Only physical chronic disease,Low
+69,Male,1,20,False,Only physical chronic disease,Low
+71,Male,1,20,False,Only physical chronic disease,Low
+53,Female,1,21,False,Only physical chronic disease,Low
+90,Female,1,21,True,Only physical chronic disease,Low
+57,Male,1,21,False,Has none,Low
+83,Female,1,21,False,Has none,Low
+64,Male,1,21,False,Has none,Low
+27,Male,1,21,False,Has none,Low
+13,Male,1,21,False,Has none,Low
+79,Female,1,22,False,Only physical chronic disease,Medium
+75,Female,1,22,False,Has none,Medium
+70,Male,1,22,False,Has none,Medium
+53,Female,1,23,False,Has none,Medium
+72,Male,1,23,True,Only physical chronic disease,Medium
+75,Female,1,23,True,Only physical chronic disease,Medium
+88,Male,1,23,False,Only physical chronic disease,Medium
+73,Male,1,23,True,Only physical chronic disease,Medium
+52,Female,1,23,False,Only physical chronic disease,Medium
+44,Female,1,23,False,Has none,Medium
+67,Male,1,24,False,Has none,Medium
+51,Male,1,24,False,Has none,Medium
+63,Male,1,24,False,Has none,Medium
+54,Male,1,25,False,Only physical chronic disease,Medium
+62,Female,1,25,True,Only physical chronic disease,Medium
+59,Female,1,25,False,Has none,Medium
+79,Male,1,25,True,Only physical chronic disease,Medium
+42,Female,1,26,False,Has none,Medium
+51,Female,1,26,False,Has none,Medium
+80,Female,1,27,False,Only physical chronic disease,Medium
+80,Male,1,27,False,Only physical chronic disease,Medium
+82,Female,1,27,False,Only physical chronic disease,Medium
+64,Male,1,27,False,Has none,Medium
+83,Female,1,27,False,Only physical chronic disease,Medium
+60,Male,1,28,False,Only physical chronic disease,Medium
+72,Male,1,28,False,Only physical chronic disease,Medium
+73,Female,1,28,False,Only physical chronic disease,Medium
+78,Female,1,28,False,Only physical chronic disease,Medium
+53,Female,1,29,False,Only physical chronic disease,Medium
+46,Female,1,29,False,Only physical chronic disease,Medium
+65,Female,1,29,True,Only physical chronic disease,Medium
+53,Female,1,30,True,Both physical and mental chronic disease,Medium
+62,Male,1,30,False,Has none,Medium
+76,Male,1,30,False,Only physical chronic disease,Medium
+68,Female,1,31,False,Only physical chronic disease,Medium
+58,Male,1,31,False,Only physical chronic disease,Medium
+51,Female,1,33,True,Only physical chronic disease,Medium
+31,Female,1,33,False,Only mental chronic disease,Medium
+35,Female,1,33,False,Only physical chronic disease,Medium
+59,Male,1,34,True,Only physical chronic disease,Medium
+83,Male,1,35,False,Only physical chronic disease,Medium
+88,Female,1,35,False,Only mental chronic disease,Medium
+36,Female,1,35,False,Only physical chronic disease,Medium
+64,Female,1,35,False,Has none,Medium
+57,Female,1,36,False,Has none,Medium
+66,Female,1,37,False,Has none,Medium
+72,Female,1,38,False,Has none,Medium
+68,Male,1,38,False,Only physical chronic disease,Medium
+79,Female,1,38,True,Only physical chronic disease,Medium
+31,Female,1,38,False,Has none,Medium
+71,Female,1,38,True,Only physical chronic disease,Medium
+58,Female,1,39,True,Only physical chronic disease,Medium
+18,Female,1,39,False,Only physical chronic disease,Medium
+64,Female,1,40,True,Only physical chronic disease,High
+75,Female,1,40,False,Has none,High
+95,Female,1,42,False,Only physical chronic disease,High
+67,Male,1,42,False,Only physical chronic disease,High
+73,Male,1,43,True,Only physical chronic disease,High
+73,Female,1,43,True,Only physical chronic disease,High
+72,Female,1,43,False,Only physical chronic disease,High
+89,Female,1,43,True,Only physical chronic disease,High
+66,Male,1,44,False,Only physical chronic disease,High
+37,Male,1,46,True,Both physical and mental chronic disease,High
+44,Female,1,47,False,Has none,High
+85,Female,1,48,True,Only physical chronic disease,High
+81,Female,1,48,True,Only physical chronic disease,High
+76,Female,1,49,True,Only physical chronic disease,High
+81,Male,1,49,True,Only physical chronic disease,High
+83,Male,1,50,True,Only physical chronic disease,High
+76,Female,1,50,True,Only physical chronic disease,High
+84,Male,1,51,True,Only physical chronic disease,High
+82,Female,1,52,True,Only physical chronic disease,High
+78,Male,1,53,False,Has none,High
+70,Female,1,54,False,Only physical chronic disease,High
+50,Female,1,55,False,Only mental chronic disease,High
+89,Female,1,56,True,Only physical chronic disease,High
+81,Male,1,56,True,Only physical chronic disease,High
+82,Female,1,56,True,Only physical chronic disease,High
+74,Female,1,56,False,Only physical chronic disease,High
+70,Male,1,56,True,Only physical chronic disease,High
+69,Male,1,56,True,Only physical chronic disease,High
+69,Female,1,58,True,Only physical chronic disease,High
+59,Female,1,59,False,Only physical chronic disease,High
+81,Male,1,68,True,Only physical chronic disease,High
+75,Male,1,77,True,Only physical chronic disease,High
+68,Male,1,79,True,Only physical chronic disease,High
+86,Female,1,87,True,Only physical chronic disease,High
+83,Female,1,88,True,Only physical chronic disease,High
+83,Female,1,91,True,Only physical chronic disease,High
+65,Female,1,92,True,Only physical chronic disease,High
+89,Male,1,99,True,Only physical chronic disease,High
+88,Male,1,108,False,Only physical chronic disease,High
+50,Male,3,1,False,Has none,Low
+45,Female,3,1,False,Has none,Low
+77,Male,3,1,False,Has none,Low
+6,Female,3,1,False,Only physical chronic disease,Low
+43,Male,3,1,False,Has none,Low
+61,Male,3,1,False,Has none,Low
+71,Male,3,1,False,Has none,Low
+46,Female,3,1,False,Has none,Low
+7,Male,3,1,False,Has none,Low
+51,Male,3,1,False,Has none,Low
+42,Female,3,1,False,Has none,Low
+56,Male,3,1,False,Has none,Low
+67,Female,3,2,False,Has none,Low
+58,Male,3,2,False,Has none,Low
+33,Male,3,2,False,Only physical chronic disease,Low
+75,Male,3,2,False,Has none,Low
+88,Male,3,2,False,Has none,Low
+63,Female,3,2,False,Has none,Low
+70,Male,3,2,False,Only physical chronic disease,Low
+12,Male,3,2,False,Only physical chronic disease,Low
+64,Male,3,2,False,Has none,Low
+62,Female,3,2,False,Has none,Low
+55,Male,3,2,False,Has none,Low
+63,Male,3,2,True,Only physical chronic disease,Low
+28,Female,3,3,False,Has none,Low
+49,Male,3,3,False,Has none,Low
+13,Male,3,3,False,Only physical chronic disease,Low
+60,Male,3,3,False,Has none,Low
+55,Female,3,3,False,Has none,Low
+51,Female,3,3,False,Has none,Low
+64,Female,3,3,False,Has none,Low
+37,Male,3,3,False,Has none,Low
+58,Male,3,3,False,Has none,Low
+39,Female,3,3,False,Only mental chronic disease,Low
+46,Male,3,3,False,Has none,Low
+71,Male,3,3,False,Has none,Low
+44,Male,3,3,False,Has none,Low
+93,Female,3,3,False,Only physical chronic disease,Low
+42,Male,3,3,False,Only mental chronic disease,Low
+53,Female,3,3,False,Has none,Low
+59,Male,3,3,False,Has none,Low
+42,Female,3,3,False,Has none,Low
+50,Male,3,3,False,Only mental chronic disease,Low
+21,Male,3,3,False,Has none,Low
+19,Female,3,3,False,Only physical chronic disease,Low
+16,Female,3,4,False,Only mental chronic disease,Low
+37,Female,3,4,False,Has none,Low
+14,Female,3,4,False,Only physical chronic disease,Low
+4,Female,3,4,False,Has none,Low
+37,Male,3,4,False,Only physical chronic disease,Low
+69,Female,3,4,False,Has none,Low
+77,Female,3,4,False,Only physical chronic disease,Low
+45,Female,3,4,False,Only mental chronic disease,Low
+76,Male,3,4,False,Only physical chronic disease,Low
+34,Female,3,4,False,Has none,Low
+10,Male,3,4,False,Only physical chronic disease,Low
+47,Male,3,4,False,Has none,Low
+82,Male,3,4,False,Only physical chronic disease,Low
+35,Female,3,4,False,Only physical chronic disease,Low
+64,Female,3,4,False,Only physical chronic disease,Low
+41,Female,3,4,False,Has none,Low
+71,Female,3,4,False,Has none,Low
+34,Female,3,5,False,Has none,Low
+55,Female,3,5,False,Has none,Low
+63,Male,3,5,False,Only physical chronic disease,Low
+75,Male,3,5,False,Only physical chronic disease,Low
+62,Female,3,5,False,Has none,Low
+23,Female,3,5,False,Only physical chronic disease,Low
+71,Female,3,5,False,Only physical chronic disease,Low
+55,Female,3,5,False,Has none,Low
+58,Female,3,5,False,Has none,Low
+71,Female,3,5,False,Has none,Low
+74,Female,3,5,False,Has none,Low
+86,Male,3,5,False,Has none,Low
+58,Female,3,6,False,Has none,Low
+52,Female,3,6,False,Has none,Low
+32,Male,3,6,False,Only mental chronic disease,Low
+54,Male,3,6,False,Has none,Low
+69,Female,3,6,False,Has none,Low
+58,Female,3,6,False,Has none,Low
+61,Male,3,7,False,Has none,Low
+78,Female,3,7,False,Has none,Low
+54,Male,3,7,False,Has none,Low
+34,Female,3,7,False,Has none,Low
+57,Female,3,7,False,Has none,Low
+74,Male,3,7,False,Only physical chronic disease,Low
+69,Male,3,7,False,Only physical chronic disease,Low
+58,Female,3,7,True,Only physical chronic disease,Low
+64,Female,3,7,False,Has none,Low
+66,Male,3,7,False,Has none,Low
+43,Female,3,7,False,Only physical chronic disease,Low
+28,Male,3,7,False,Has none,Low
+54,Male,3,7,False,Only mental chronic disease,Low
+39,Female,3,7,False,Has none,Low
+53,Male,3,8,False,Has none,Low
+5,Female,3,8,False,Only physical chronic disease,Low
+46,Male,3,8,False,Only physical chronic disease,Low
+60,Female,3,8,False,Has none,Low
+42,Male,3,8,False,Only mental chronic disease,Low
+58,Male,3,8,False,Only physical chronic disease,Low
+56,Female,3,8,True,Both physical and mental chronic disease,Low
+61,Male,3,8,False,Only physical chronic disease,Low
+54,Male,3,8,False,Has none,Low
+36,Female,3,8,False,Has none,Low
+46,Female,3,8,False,Has none,Low
+54,Male,3,8,False,Has none,Low
+20,Male,3,8,False,Only physical chronic disease,Low
+67,Female,3,8,False,Only physical chronic disease,Low
+69,Male,3,8,False,Has none,Low
+28,Female,3,8,False,Only mental chronic disease,Low
+72,Male,3,9,False,Has none,Low
+80,Male,3,9,True,Only physical chronic disease,Low
+56,Male,3,9,False,Only physical chronic disease,Low
+21,Female,3,9,False,Has none,Low
+39,Male,3,9,False,Has none,Low
+81,Male,3,9,False,Only physical chronic disease,Low
+74,Female,3,9,False,Has none,Low
+49,Male,3,9,False,Only physical chronic disease,Low
+51,Female,3,9,False,Only physical chronic disease,Low
+53,Male,3,9,False,Only physical chronic disease,Low
+69,Female,3,9,False,Has none,Low
+70,Female,3,9,False,Has none,Low
+49,Male,3,9,True,Only physical chronic disease,Low
+28,Female,3,9,False,Has none,Low
+39,Female,3,9,False,Only physical chronic disease,Low
+52,Male,3,9,False,Only mental chronic disease,Low
+79,Female,3,10,False,Has none,Low
+62,Male,3,10,False,Only physical chronic disease,Low
+13,Female,3,10,False,Only mental chronic disease,Low
+50,Male,3,10,False,Has none,Low
+63,Female,3,10,False,Has none,Low
+88,Female,3,10,False,Only physical chronic disease,Low
+19,Male,3,10,False,Only mental chronic disease,Low
+63,Female,3,10,False,Has none,Low
+60,Female,3,11,False,Has none,Low
+25,Female,3,11,False,Has none,Low
+37,Female,3,11,False,Has none,Low
+69,Female,3,11,True,Both physical and mental chronic disease,Low
+16,Male,3,11,False,Has none,Low
+57,Female,3,11,False,Only mental chronic disease,Low
+58,Male,3,11,True,Both physical and mental chronic disease,Low
+61,Male,3,11,False,Has none,Low
+72,Male,3,12,False,Has none,Low
+44,Male,3,12,False,Only mental chronic disease,Low
+8,Male,3,12,False,Only mental chronic disease,Low
+74,Male,3,12,False,Has none,Low
+53,Male,3,12,False,Only physical chronic disease,Low
+44,Female,3,12,False,Has none,Low
+74,Male,3,12,True,Only physical chronic disease,Low
+43,Male,3,12,False,Only physical chronic disease,Low
+76,Male,3,12,True,Only physical chronic disease,Low
+65,Male,3,12,False,Has none,Low
+66,Female,3,12,False,Has none,Low
+24,Female,3,12,False,Has none,Low
+47,Female,3,12,False,Has none,Low
+2,Male,3,12,False,Has none,Low
+54,Male,3,12,False,Has none,Low
+78,Male,3,12,False,Has none,Low
+24,Female,3,12,False,Only physical chronic disease,Low
+61,Female,3,12,False,Has none,Low
+54,Male,3,12,False,Only physical chronic disease,Low
+35,Male,3,12,False,Has none,Low
+73,Male,3,12,False,Only physical chronic disease,Low
+64,Male,3,13,False,Has none,Low
+41,Female,3,13,False,Has none,Low
+60,Male,3,13,False,Only physical chronic disease,Low
+57,Female,3,13,False,Only physical chronic disease,Low
+69,Male,3,13,False,Has none,Low
+70,Female,3,13,False,Has none,Low
+38,Male,3,13,False,Has none,Low
+62,Female,3,13,False,Only physical chronic disease,Low
+50,Female,3,14,False,Has none,Low
+65,Female,3,14,False,Only mental chronic disease,Low
+62,Female,3,14,False,Only physical chronic disease,Low
+46,Female,3,14,False,Has none,Low
+72,Male,3,14,False,Only physical chronic disease,Low
+65,Female,3,14,True,Only physical chronic disease,Low
+76,Female,3,15,False,Only physical chronic disease,Low
+51,Male,3,15,False,Has none,Low
+69,Female,3,15,False,Only mental chronic disease,Low
+64,Male,3,15,True,Only physical chronic disease,Low
+55,Male,3,15,False,Has none,Low
+68,Male,3,15,False,Has none,Low
+55,Male,3,15,False,Only physical chronic disease,Low
+77,Male,3,15,False,Has none,Low
+69,Female,3,15,False,Only mental chronic disease,Low
+44,Male,3,15,True,Both physical and mental chronic disease,Low
+61,Female,3,15,False,Only physical chronic disease,Low
+62,Male,3,16,False,Has none,Low
+62,Female,3,16,True,Only physical chronic disease,Low
+56,Male,3,16,False,Has none,Low
+45,Female,3,16,False,Only physical chronic disease,Low
+77,Female,3,16,True,Only physical chronic disease,Low
+37,Female,3,16,False,Only mental chronic disease,Low
+83,Male,3,16,False,Has none,Low
+68,Male,3,16,False,Has none,Low
+63,Male,3,16,False,Only physical chronic disease,Low
+69,Female,3,17,False,Has none,Low
+52,Male,3,17,True,Only physical chronic disease,Low
+73,Male,3,17,False,Only physical chronic disease,Low
+53,Male,3,17,True,Only physical chronic disease,Low
+58,Female,3,17,False,Only physical chronic disease,Low
+72,Female,3,18,False,Has none,Low
+72,Female,3,18,True,Only physical chronic disease,Low
+78,Male,3,18,False,Has none,Low
+64,Male,3,18,False,Only physical chronic disease,Low
+53,Female,3,18,False,Has none,Low
+78,Female,3,18,False,Only physical chronic disease,Low
+46,Male,3,19,True,Only physical chronic disease,Low
+56,Female,3,19,False,Has none,Low
+52,Female,3,19,False,Has none,Low
+36,Female,3,19,False,Has none,Low
+89,Female,3,19,False,Has none,Low
+49,Female,3,19,False,Has none,Low
+38,Male,3,19,False,Only mental chronic disease,Low
+54,Female,3,19,False,Only physical chronic disease,Low
+41,Male,3,19,False,Has none,Low
+62,Female,3,19,False,Only physical chronic disease,Low
+3,Male,3,19,False,Has none,Low
+58,Female,3,20,False,Has none,Low
+56,Female,3,20,False,Only physical chronic disease,Low
+59,Male,3,20,False,Has none,Low
+34,Male,3,20,False,Has none,Low
+84,Female,3,20,False,Has none,Low
+69,Female,3,20,False,Has none,Low
+50,Male,3,20,True,Both physical and mental chronic disease,Low
+37,Female,3,21,False,Only mental chronic disease,Low
+81,Male,3,21,False,Has none,Low
+59,Female,3,21,False,Only mental chronic disease,Low
+17,Male,3,21,False,Has none,Low
+39,Female,3,22,False,Only mental chronic disease,Medium
+80,Female,3,22,True,Only physical chronic disease,Medium
+66,Female,3,22,True,Only physical chronic disease,Medium
+67,Female,3,23,True,Only physical chronic disease,Medium
+28,Female,3,23,False,Only mental chronic disease,Medium
+74,Female,3,23,False,Has none,Medium
+45,Male,3,23,False,Has none,Medium
+76,Female,3,23,True,Only physical chronic disease,Medium
+72,Female,3,23,True,Both physical and mental chronic disease,Medium
+43,Female,3,23,False,Only mental chronic disease,Medium
+70,Female,3,23,False,Only physical chronic disease,Medium
+71,Male,3,24,False,Only physical chronic disease,Medium
+49,Female,3,24,False,Has none,Medium
+29,Male,3,25,False,Only physical chronic disease,Medium
+61,Female,3,25,False,Only physical chronic disease,Medium
+82,Male,3,25,False,Only physical chronic disease,Medium
+31,Female,3,26,False,Only physical chronic disease,Medium
+74,Male,3,26,True,Only physical chronic disease,Medium
+76,Male,3,27,False,Only physical chronic disease,Medium
+65,Female,3,28,True,Only physical chronic disease,Medium
+40,Female,3,28,False,Only mental chronic disease,Medium
+39,Male,3,29,True,Both physical and mental chronic disease,Medium
+39,Male,3,29,False,Only physical chronic disease,Medium
+43,Female,3,29,False,Only physical chronic disease,Medium
+67,Male,3,29,False,Has none,Medium
+61,Female,3,29,False,Has none,Medium
+67,Female,3,30,True,Only physical chronic disease,Medium
+80,Female,3,31,False,Only physical chronic disease,Medium
+60,Female,3,32,False,Only mental chronic disease,Medium
+70,Female,3,32,True,Only physical chronic disease,Medium
+88,Male,3,32,False,Only physical chronic disease,Medium
+37,Female,3,33,False,Only mental chronic disease,Medium
+68,Male,3,33,True,Both physical and mental chronic disease,Medium
+28,Female,3,33,False,Has none,Medium
+69,Male,3,33,False,Has none,Medium
+77,Female,3,34,True,Both physical and mental chronic disease,Medium
+72,Female,3,34,True,Only physical chronic disease,Medium
+29,Female,3,34,False,Only mental chronic disease,Medium
+82,Female,3,34,True,Both physical and mental chronic disease,Medium
+49,Female,3,35,True,Both physical and mental chronic disease,Medium
+7,Female,3,36,False,Only physical chronic disease,Medium
+92,Female,3,37,True,Only physical chronic disease,Medium
+29,Female,3,37,False,Only mental chronic disease,Medium
+27,Female,3,37,False,Has none,Medium
+78,Male,3,38,False,Only physical chronic disease,Medium
+37,Female,3,38,False,Has none,Medium
+80,Female,3,38,True,Only physical chronic disease,Medium
+46,Male,3,40,False,Only mental chronic disease,High
+92,Female,3,41,True,Only physical chronic disease,High
+80,Female,3,41,True,Only physical chronic disease,High
+86,Female,3,41,False,Only physical chronic disease,High
+64,Female,3,42,True,Both physical and mental chronic disease,High
+38,Female,3,43,False,Only mental chronic disease,High
+28,Female,3,44,False,Only mental chronic disease,High
+78,Female,3,45,True,Only physical chronic disease,High
+65,Female,3,46,True,Only physical chronic disease,High
+55,Male,3,46,True,Both physical and mental chronic disease,High
+76,Male,3,47,True,Only physical chronic disease,High
+87,Female,3,48,True,Only physical chronic disease,High
+35,Female,3,51,False,Only mental chronic disease,High
+56,Female,3,53,True,Both physical and mental chronic disease,High
+51,Female,3,54,False,Only physical chronic disease,High
+75,Male,3,63,True,Only physical chronic disease,High
+77,Male,3,64,True,Only physical chronic disease,High
+36,Female,3,66,False,Has none,High
+78,Female,3,71,True,Both physical and mental chronic disease,High
+91,Female,3,74,True,Both physical and mental chronic disease,High
+72,Male,3,79,True,Both physical and mental chronic disease,High
+55,Male,3,96,True,Both physical and mental chronic disease,High
+32,Male,2,1,False,Has none,Low
+59,Female,2,1,False,Has none,Low
+58,Female,2,1,False,Has none,Low
+46,Male,2,1,False,Has none,Low
+46,Male,2,1,False,Has none,Low
+65,Male,2,1,False,Has none,Low
+49,Female,2,1,False,Has none,Low
+50,Male,2,1,False,Has none,Low
+55,Male,2,1,False,Has none,Low
+70,Male,2,1,False,Has none,Low
+49,Male,2,1,False,Has none,Low
+32,Male,2,2,False,Has none,Low
+48,Female,2,2,False,Has none,Low
+47,Female,2,2,False,Has none,Low
+68,Female,2,2,False,Has none,Low
+71,Male,2,2,False,Has none,Low
+46,Male,2,2,False,Has none,Low
+48,Male,2,2,False,Has none,Low
+58,Male,2,2,False,Has none,Low
+54,Male,2,2,False,Has none,Low
+49,Female,2,2,False,Has none,Low
+38,Female,2,2,False,Only mental chronic disease,Low
+55,Female,2,2,False,Has none,Low
+60,Male,2,2,False,Has none,Low
+51,Male,2,2,False,Has none,Low
+47,Male,2,2,False,Has none,Low
+65,Male,2,3,False,Only physical chronic disease,Low
+41,Male,2,3,False,Only physical chronic disease,Low
+8,Male,2,3,False,Only physical chronic disease,Low
+67,Female,2,3,False,Has none,Low
+0,Male,2,3,False,Only physical chronic disease,Low
+49,Female,2,3,False,Only physical chronic disease,Low
+29,Female,2,3,False,Has none,Low
+55,Male,2,3,False,Has none,Low
+50,Male,2,3,False,Has none,Low
+55,Male,2,3,False,Only physical chronic disease,Low
+17,Female,2,3,False,Has none,Low
+61,Female,2,3,False,Has none,Low
+56,Male,2,3,False,Has none,Low
+46,Female,2,3,False,Has none,Low
+37,Male,2,3,False,Only physical chronic disease,Low
+17,Female,2,4,False,Has none,Low
+42,Male,2,4,False,Has none,Low
+50,Male,2,4,False,Has none,Low
+6,Female,2,4,False,Has none,Low
+81,Female,2,4,False,Has none,Low
+51,Male,2,4,False,Only physical chronic disease,Low
+75,Female,2,4,False,Has none,Low
+53,Female,2,4,False,Only physical chronic disease,Low
+26,Male,2,4,True,Only physical chronic disease,Low
+59,Male,2,5,False,Only physical chronic disease,Low
+49,Male,2,5,True,Only physical chronic disease,Low
+56,Male,2,5,False,Has none,Low
+63,Male,2,5,False,Has none,Low
+53,Female,2,5,False,Has none,Low
+51,Male,2,5,False,Has none,Low
+12,Female,2,5,False,Has none,Low
+80,Male,2,5,False,Only physical chronic disease,Low
+54,Male,2,5,False,Has none,Low
+20,Female,2,5,False,Only physical chronic disease,Low
+51,Female,2,5,False,Has none,Low
+76,Female,2,5,False,Only physical chronic disease,Low
+54,Female,2,5,False,Has none,Low
+46,Male,2,5,False,Has none,Low
+45,Female,2,5,False,Has none,Low
+11,Male,2,5,False,Only physical chronic disease,Low
+94,Female,2,5,False,Has none,Low
+27,Male,2,5,False,Has none,Low
+60,Male,2,5,False,Has none,Low
+23,Female,2,5,False,Has none,Low
+37,Female,2,6,False,Has none,Low
+62,Male,2,6,False,Has none,Low
+60,Female,2,6,False,Only physical chronic disease,Low
+9,Male,2,6,False,Only physical chronic disease,Low
+73,Female,2,6,True,Only physical chronic disease,Low
+41,Female,2,6,False,Only physical chronic disease,Low
+69,Male,2,6,False,Only physical chronic disease,Low
+30,Female,2,6,False,Has none,Low
+50,Male,2,6,False,Has none,Low
+74,Female,2,6,False,Has none,Low
+54,Male,2,6,False,Only physical chronic disease,Low
+13,Male,2,6,False,Only physical chronic disease,Low
+43,Female,2,6,False,Only physical chronic disease,Low
+48,Male,2,6,False,Only physical chronic disease,Low
+58,Female,2,6,False,Only mental chronic disease,Low
+47,Male,2,7,False,Has none,Low
+59,Female,2,7,False,Has none,Low
+51,Female,2,7,False,Has none,Low
+44,Female,2,7,False,Only physical chronic disease,Low
+38,Male,2,7,False,Only physical chronic disease,Low
+60,Male,2,7,False,Has none,Low
+59,Female,2,7,False,Has none,Low
+47,Female,2,7,False,Has none,Low
+69,Female,2,7,False,Only physical chronic disease,Low
+56,Male,2,7,False,Has none,Low
+52,Male,2,7,False,Has none,Low
+25,Male,2,7,False,Has none,Low
+51,Female,2,7,False,Has none,Low
+56,Female,2,7,False,Has none,Low
+53,Female,2,8,False,Has none,Low
+69,Male,2,8,False,Only physical chronic disease,Low
+9,Female,2,8,False,Has none,Low
+57,Male,2,8,False,Has none,Low
+57,Male,2,8,False,Has none,Low
+51,Male,2,8,False,Has none,Low
+61,Female,2,8,False,Only physical chronic disease,Low
+55,Male,2,8,False,Only physical chronic disease,Low
+41,Male,2,8,False,Has none,Low
+70,Male,2,8,False,Has none,Low
+54,Female,2,8,False,Has none,Low
+47,Male,2,8,False,Has none,Low
+22,Female,2,8,False,Has none,Low
+53,Female,2,8,False,Has none,Low
+73,Male,2,8,True,Only physical chronic disease,Low
+41,Female,2,8,False,Has none,Low
+59,Male,2,8,False,Has none,Low
+59,Male,2,8,True,Only physical chronic disease,Low
+65,Male,2,8,True,Only physical chronic disease,Low
+42,Male,2,8,False,Has none,Low
+56,Male,2,9,False,Has none,Low
+40,Male,2,9,False,Has none,Low
+53,Male,2,9,False,Has none,Low
+54,Female,2,9,False,Has none,Low
+24,Male,2,9,False,Has none,Low
+23,Female,2,9,False,Has none,Low
+34,Male,2,9,False,Only physical chronic disease,Low
+61,Male,2,9,False,Has none,Low
+13,Male,2,9,False,Only physical chronic disease,Low
+70,Male,2,9,False,Has none,Low
+40,Male,2,9,False,Only mental chronic disease,Low
+58,Male,2,9,False,Has none,Low
+67,Female,2,10,False,Has none,Low
+67,Female,2,10,False,Only physical chronic disease,Low
+69,Male,2,10,False,Has none,Low
+57,Male,2,10,False,Has none,Low
+66,Male,2,10,False,Only physical chronic disease,Low
+61,Female,2,10,False,Has none,Low
+29,Female,2,10,False,Has none,Low
+64,Female,2,10,False,Only physical chronic disease,Low
+60,Female,2,10,False,Has none,Low
+63,Female,2,10,False,Has none,Low
+75,Male,2,10,False,Only physical chronic disease,Low
+30,Female,2,10,False,Has none,Low
+58,Female,2,10,True,Only physical chronic disease,Low
+44,Female,2,10,False,Has none,Low
+65,Male,2,11,True,Only physical chronic disease,Low
+63,Female,2,11,True,Only physical chronic disease,Low
+69,Female,2,11,False,Has none,Low
+16,Male,2,11,False,Only physical chronic disease,Low
+67,Male,2,11,False,Has none,Low
+71,Male,2,11,False,Only physical chronic disease,Low
+29,Female,2,11,False,Only physical chronic disease,Low
+44,Female,2,11,False,Only physical chronic disease,Low
+14,Female,2,11,False,Has none,Low
+52,Female,2,11,False,Has none,Low
+41,Male,2,12,False,Has none,Low
+47,Female,2,12,False,Only physical chronic disease,Low
+29,Male,2,12,False,Only physical chronic disease,Low
+70,Male,2,12,True,Only physical chronic disease,Low
+46,Male,2,12,False,Only physical chronic disease,Low
+77,Female,2,12,False,Only physical chronic disease,Low
+69,Female,2,12,False,Only physical chronic disease,Low
+68,Male,2,12,True,Only physical chronic disease,Low
+66,Female,2,12,False,Has none,Low
+52,Female,2,12,False,Only physical chronic disease,Low
+15,Male,2,12,False,Only mental chronic disease,Low
+21,Female,2,12,False,Only physical chronic disease,Low
+43,Male,2,12,True,Only physical chronic disease,Low
+66,Male,2,12,False,Has none,Low
+68,Male,2,13,False,Has none,Low
+10,Male,2,13,False,Has none,Low
+42,Female,2,13,False,Has none,Low
+55,Female,2,13,False,Has none,Low
+86,Female,2,13,False,Has none,Low
+67,Male,2,13,False,Has none,Low
+58,Female,2,13,False,Only mental chronic disease,Low
+10,Female,2,13,False,Only physical chronic disease,Low
+65,Male,2,13,False,Has none,Low
+55,Male,2,14,False,Only physical chronic disease,Low
+51,Male,2,14,False,Has none,Low
+69,Female,2,14,False,Has none,Low
+49,Male,2,14,True,Only physical chronic disease,Low
+62,Male,2,14,False,Has none,Low
+71,Male,2,14,False,Only physical chronic disease,Low
+50,Male,2,14,False,Has none,Low
+48,Female,2,14,False,Has none,Low
+47,Female,2,15,False,Has none,Low
+73,Male,2,15,False,Only physical chronic disease,Low
+47,Male,2,15,False,Only physical chronic disease,Low
+60,Female,2,15,False,Only physical chronic disease,Low
+66,Female,2,15,False,Only physical chronic disease,Low
+60,Female,2,15,False,Has none,Low
+57,Female,2,15,False,Only physical chronic disease,Low
+48,Male,2,15,False,Has none,Low
+58,Male,2,15,False,Has none,Low
+78,Female,2,15,False,Only physical chronic disease,Low
+35,Male,2,16,False,Only physical chronic disease,Low
+12,Male,2,16,False,Has none,Low
+46,Female,2,16,False,Has none,Low
+71,Female,2,16,False,Has none,Low
+43,Female,2,16,False,Only physical chronic disease,Low
+36,Female,2,16,False,Only physical chronic disease,Low
+34,Female,2,17,False,Only mental chronic disease,Low
+49,Female,2,17,False,Only physical chronic disease,Low
+73,Female,2,17,False,Only physical chronic disease,Low
+81,Male,2,17,False,Only physical chronic disease,Low
+7,Female,2,17,False,Has none,Low
+67,Female,2,18,False,Has none,Low
+83,Female,2,18,False,Only physical chronic disease,Low
+49,Female,2,18,False,Only physical chronic disease,Low
+45,Female,2,18,False,Has none,Low
+45,Female,2,18,False,Only physical chronic disease,Low
+63,Male,2,18,True,Both physical and mental chronic disease,Low
+65,Female,2,18,False,Only physical chronic disease,Low
+70,Female,2,18,False,Only physical chronic disease,Low
+31,Female,2,18,False,Only physical chronic disease,Low
+55,Female,2,19,False,Has none,Low
+57,Female,2,19,False,Has none,Low
+67,Female,2,19,False,Has none,Low
+73,Female,2,19,False,Only physical chronic disease,Low
+62,Male,2,19,False,Only physical chronic disease,Low
+64,Female,2,19,False,Has none,Low
+62,Female,2,20,False,Has none,Low
+29,Female,2,20,True,Both physical and mental chronic disease,Low
+44,Female,2,20,False,Only physical chronic disease,Low
+67,Male,2,20,False,Has none,Low
+47,Female,2,20,False,Only physical chronic disease,Low
+39,Female,2,20,False,Only physical chronic disease,Low
+48,Female,2,20,False,Only physical chronic disease,Low
+41,Female,2,21,False,Only physical chronic disease,Low
+66,Female,2,21,True,Only physical chronic disease,Low
+67,Male,2,21,False,Only physical chronic disease,Low
+63,Male,2,21,False,Has none,Low
+17,Male,2,21,False,Only physical chronic disease,Low
+72,Male,2,21,True,Only physical chronic disease,Low
+69,Male,2,22,True,Only physical chronic disease,Medium
+51,Female,2,22,False,Has none,Medium
+54,Female,2,22,True,Both physical and mental chronic disease,Medium
+76,Male,2,22,True,Only physical chronic disease,Medium
+53,Female,2,22,False,Only physical chronic disease,Medium
+84,Female,2,23,False,Has none,Medium
+68,Male,2,23,True,Only physical chronic disease,Medium
+73,Female,2,23,False,Has none,Medium
+79,Female,2,23,False,Has none,Medium
+82,Male,2,23,False,Only physical chronic disease,Medium
+75,Female,2,23,False,Only physical chronic disease,Medium
+48,Male,2,23,False,Only physical chronic disease,Medium
+50,Female,2,23,False,Only physical chronic disease,Medium
+65,Female,2,23,False,Only physical chronic disease,Medium
+68,Male,2,24,False,Only physical chronic disease,Medium
+59,Male,2,24,False,Only physical chronic disease,Medium
+75,Female,2,24,False,Only physical chronic disease,Medium
+67,Male,2,24,False,Only physical chronic disease,Medium
+65,Male,2,24,False,Has none,Medium
+56,Male,2,24,True,Only physical chronic disease,Medium
+74,Female,2,24,False,Only physical chronic disease,Medium
+79,Female,2,25,True,Only physical chronic disease,Medium
+71,Male,2,25,True,Only physical chronic disease,Medium
+73,Male,2,25,True,Only physical chronic disease,Medium
+53,Female,2,25,False,Has none,Medium
+86,Female,2,25,False,Only physical chronic disease,Medium
+78,Female,2,25,False,Only physical chronic disease,Medium
+5,Male,2,25,False,Only physical chronic disease,Medium
+68,Female,2,25,False,Has none,Medium
+72,Male,2,26,False,Only physical chronic disease,Medium
+44,Female,2,27,False,Only physical chronic disease,Medium
+85,Female,2,27,False,Only physical chronic disease,Medium
+61,Male,2,27,False,Only mental chronic disease,Medium
+58,Male,2,28,False,Has none,Medium
+62,Female,2,28,False,Has none,Medium
+66,Female,2,29,False,Only physical chronic disease,Medium
+55,Female,2,29,False,Only physical chronic disease,Medium
+62,Female,2,30,False,Only physical chronic disease,Medium
+66,Male,2,30,True,Only physical chronic disease,Medium
+57,Male,2,30,True,Only physical chronic disease,Medium
+69,Female,2,31,True,Only physical chronic disease,Medium
+61,Female,2,31,True,Only physical chronic disease,Medium
+63,Female,2,31,True,Only physical chronic disease,Medium
+93,Male,2,31,False,Only physical chronic disease,Medium
+57,Female,2,32,False,Has none,Medium
+85,Female,2,32,False,Only physical chronic disease,Medium
+66,Female,2,32,False,Has none,Medium
+73,Female,2,33,False,Only physical chronic disease,Medium
+45,Female,2,33,False,Only physical chronic disease,Medium
+73,Female,2,33,False,Only physical chronic disease,Medium
+65,Male,2,34,False,Only physical chronic disease,Medium
+70,Female,2,34,False,Has none,Medium
+89,Female,2,34,True,Only physical chronic disease,Medium
+65,Male,2,34,False,Only physical chronic disease,Medium
+34,Female,2,34,False,Has none,Medium
+63,Female,2,35,False,Has none,Medium
+61,Male,2,36,True,Both physical and mental chronic disease,Medium
+45,Female,2,36,False,Has none,Medium
+69,Female,2,36,True,Only physical chronic disease,Medium
+81,Female,2,37,False,Only physical chronic disease,Medium
+69,Male,2,37,False,Only mental chronic disease,Medium
+59,Female,2,37,False,Only physical chronic disease,Medium
+50,Female,2,38,False,Only mental chronic disease,Medium
+61,Female,2,38,True,Only physical chronic disease,Medium
+61,Female,2,38,False,Has none,Medium
+68,Female,2,38,False,Only physical chronic disease,Medium
+72,Male,2,42,False,Only physical chronic disease,High
+70,Male,2,42,True,Only physical chronic disease,High
+41,Female,2,44,False,Only mental chronic disease,High
+87,Female,2,45,False,Only physical chronic disease,High
+58,Male,2,46,True,Only physical chronic disease,High
+85,Female,2,48,False,Only physical chronic disease,High
+88,Female,2,49,True,Only physical chronic disease,High
+83,Female,2,51,False,Only physical chronic disease,High
+51,Female,2,51,True,Only physical chronic disease,High
+91,Female,2,52,True,Only physical chronic disease,High
+69,Female,2,52,True,Only physical chronic disease,High
+61,Female,2,52,False,Has none,High
+69,Female,2,54,True,Only physical chronic disease,High
+47,Male,2,55,False,Only physical chronic disease,High
+65,Male,2,58,True,Only physical chronic disease,High
+74,Male,2,60,False,Has none,High
+35,Female,2,61,False,Has none,High
+65,Male,2,62,False,Only physical chronic disease,High
+47,Female,2,63,False,Only physical chronic disease,High
+84,Female,2,70,True,Only physical chronic disease,High
+84,Female,2,70,True,Only physical chronic disease,High
+82,Female,2,71,True,Only physical chronic disease,High
+46,Female,2,75,False,Only physical chronic disease,High
+63,Female,2,79,True,Both physical and mental chronic disease,High
+66,Male,2,87,True,Only physical chronic disease,High
+85,Female,2,93,True,Only physical chronic disease,High
+81,Male,2,97,True,Only physical chronic disease,High
+47,Female,2,117,True,Both physical and mental chronic disease,High

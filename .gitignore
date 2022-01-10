@@ -2,3 +2,5 @@
 *.pptx
 recording/
 */recording/*
+DataGeneration/
+*/DataGeneration/*
